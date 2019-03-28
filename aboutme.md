@@ -2,15 +2,26 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is François MALET.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Statistician using (and also working for) SAS during a long time, I've (re)discovered the R tools 2 years ago. I decided to create this site for 3 reasons :
 
-What else do you need?
+- continue to improve my R skills by writing post
+- put at one place all the R tips and links I found interesting
+- try to help people (you?) to learn R in a funny way
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+What else do you need to know ?
+
+### my passion
+
+- Learn new things.
+- Discover new people.
+- Travel.
+- Practice sports and specially bodyboard at [Gohaud](http://a52.idata.over-blog.com/2/27/69/60/Bretagne/bretagne-2/002.JPG "Gohaud") or [Saint Gilles-Croix de Vie](https://sportyrent.com/wp-content/uploads/2011/11/saint-gilles-croix-de-vie-surf.jpg "Saint Gilles-Croix de Vie"), my 2 favourite places.
+
